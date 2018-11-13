@@ -1,1 +1,1 @@
-# fashion-class-classification
+# Fashion Class Classification using Convolutional Neural Networks
